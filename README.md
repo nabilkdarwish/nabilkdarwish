@@ -58,7 +58,13 @@ Arduino-based system with real-time alerts for safety and IoT integration.
 <h2 align="center">🐍 Contribution Snake</h2>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/thmsgbrt/thmsgbrt/output/github-contribution-grid-snake.svg" />
+  <!-- الأساسي -->
+  <img src="https://raw.githubusercontent.com/thmsgbrt/thmsgbrt/output/github-contribution-grid-snake.svg" />
+</p>
+
+<p align="center">
+  <!-- fallback لو الأول مشتغلش -->
+  <img src="https://raw.githubusercontent.com/thmsgbrt/thmsgbrt/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
