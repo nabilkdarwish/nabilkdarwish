@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Nabil+Darwish+%F0%9F%91%8B;AI+Engineer+%7C+Data+Analyst;Building+Intelligent+Systems+%F0%9F%A7%A0;Always+Leveling+Up+%F0%9F%94%A5" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Nabil+Darwish+%F0%9F%91%8B;AI+Engineer;Building+Intelligent+Systems+%F0%9F%A7%A0;" />
 </h1>
 
 <p align="center">
