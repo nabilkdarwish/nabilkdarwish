@@ -55,24 +55,19 @@ Arduino-based system with real-time alerts for safety and IoT integration.
 
 ---
 
-<h2 align="center">🐍 Contribution Snake</h2>
+<h2 align="center">🔥 GitHub Activity</h2>
 
 <p align="center">
-  <!-- الأساسي -->
-  <img src="https://raw.githubusercontent.com/thmsgbrt/thmsgbrt/output/github-contribution-grid-snake.svg" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thmsgbrt&theme=tokyo-night&area=true&hide_border=true"/>
 </p>
 
 <p align="center">
-  <!-- fallback لو الأول مشتغلش -->
-  <img src="https://raw.githubusercontent.com/thmsgbrt/thmsgbrt/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thmsgbrt&theme=tokyonight"/>
 </p>
 
----
-
-<h2 align="center">🌌 Activity Graph</h2>
-
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=thmsgbrt&theme=react-dark&area=true&hide_border=true"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thmsgbrt&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thmsgbrt&theme=tokyonight"/>
 </p>
 
 ---
