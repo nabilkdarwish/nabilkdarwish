@@ -1,27 +1,26 @@
 <!-- ═══════════════════════════════════════════════════════════════
      Nabil Khaled Darwish · GitHub Profile README
-     Palette: Charcoal #0D0F12 · Graphite #2B2F36 · Off-White #E8E8E6 · Cyan #00E5FF
+     Palette: Matte Black #0B0F14 · Graphite #1C232D · Electric Cyan #00D9FF · Off White #E6EDF3
+     To edit: search for "EDIT" comments.
      ═══════════════════════════════════════════════════════════════ -->
 
 <!-- ─────────────── 1. HERO ─────────────── -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D0F12&height=90&section=header" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0B0F14&height=80&section=header" width="100%" alt="" />
 
 <a href="https://github.com/thmsgbrt">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=32&duration=3500&pause=1800&color=00E5FF&center=true&vCenter=true&width=700&height=60&lines=Nabil+Khaled+Darwish" alt="Nabil Khaled Darwish" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&duration=3200&pause=1500&color=00D9FF&center=true&vCenter=true&width=760&height=60&lines=Hi%2C+I%27m+Nabil+Khaled+Darwish;AI+Engineering+Student;Learning+how+intelligent+systems+work" alt="Hi, I'm Nabil Khaled Darwish. AI Engineering Student." />
 </a>
 
-**AI Engineering Student · Software Developer · Future Tech Entrepreneur**
+**AI Engineering Student  ·  Aspiring AI Engineer  ·  Lifelong Learner**
 
-<sub>Building intelligent systems that turn ideas into working products.</sub>
+<sub>Curious about how intelligent systems work, and learning by building them.</sub>
 
 <br/>
 
-<img src="https://img.shields.io/badge/Egypt-0D0F12?style=flat-square&logo=googlemaps&logoColor=00E5FF" alt="Location: Egypt" />
-<img src="https://img.shields.io/badge/Third--Year_AI_Engineering-0D0F12?style=flat-square&logo=target&logoColor=00E5FF" alt="Third-Year AI Engineering" />
-<img src="https://img.shields.io/badge/New_Ismailia_National_University-0D0F12?style=flat-square&logo=academia&logoColor=00E5FF" alt="New Ismailia National University" />
+<sub>Third-Year AI Engineering &nbsp;·&nbsp; New Ismailia National University &nbsp;·&nbsp; Egypt 🇪🇬</sub>
 
 </div>
 
@@ -33,74 +32,47 @@
 
 ## `> about_me`
 
-I'm a third-year **AI Engineering** student at **New Ismailia National University** in Egypt, working toward becoming a professional AI engineer and, eventually, building products of my own.
+I'm a third-year **Artificial Intelligence Engineering** student at **New Ismailia National University** in Egypt.
 
-What pulls me toward AI is the chance to build systems that perceive, understand, and act. I'm a practical problem solver: I care less about theory in isolation and more about getting an idea running as something real that someone can use.
+What fascinates me about AI is understanding *how* intelligent systems actually work: how a model learns from data, how a machine makes sense of language or images, and how all of it becomes something people can use.
 
-I'm curious by default, always learning, experimenting, and improving, and I'm drawn to entrepreneurship, startups, and the way good engineering can create something new.
-
-<br/>
-
----
-
-<!-- ─────────────── 3. WHAT I'M WORKING ON ─────────────── -->
-
-## `> currently_building`
-
-| Focus | Direction |
-|:--|:--|
-| **AI Engineering** | Strengthening the foundations: machine learning, deep learning, and how models become real systems |
-| **Intelligent Applications** | Turning ideas into practical, usable software with AI at the core |
-| **NLP & Computer Vision** | Teaching machines to work with language and images |
-| **AI-Powered Automation** | Using AI to remove repetitive work and connect tools together |
+I'm still building my foundation, so I learn in the open: I read, experiment, break things, and fix them. I try to think beyond university assignments and turn what I learn into practical AI projects that solve real problems.
 
 <br/>
 
 ---
 
-<!-- ─────────────── 4. TECHNICAL ARSENAL ─────────────── -->
+<!-- ─────────────── 3. AREAS OF INTEREST ─────────────── -->
 
-## `> technical_arsenal`
-
-<sub>My technical interests and development direction. This is a map of what I'm learning and building with, not a claim of expertise in everything.</sub>
-
-<!-- EDIT: remove any icon you haven't used. Add more at https://skillicons.dev -->
+## `> areas_of_interest`
 
 <table>
   <tr>
-    <td width="200"><b>Languages</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=py,cpp,c&theme=dark" alt="Python, C++, C" />
+    <td width="33%" valign="top">
+      <b>Machine Learning</b><br/>
+      <sub>How models learn patterns from data</sub>
+    </td>
+    <td width="33%" valign="top">
+      <b>Deep Learning</b><br/>
+      <sub>Neural networks and the architectures behind them</sub>
+    </td>
+    <td width="33%" valign="top">
+      <b>Natural Language Processing</b><br/>
+      <sub>Helping machines work with human language</sub>
     </td>
   </tr>
   <tr>
-    <td><b>AI / ML</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,numpy,pandas&theme=dark" alt="PyTorch, TensorFlow, OpenCV, NumPy, Pandas" />
+    <td valign="top">
+      <b>Computer Vision</b><br/>
+      <sub>Helping machines understand images and video</sub>
     </td>
-  </tr>
-  <tr>
-    <td><b>Backend</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=fastapi,flask&theme=dark" alt="FastAPI, Flask" />
+    <td valign="top">
+      <b>AI Agents &amp; Automation</b><br/>
+      <sub>Systems that can plan, decide, and act</sub>
     </td>
-  </tr>
-  <tr>
-    <td><b>Databases</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=sqlite,mysql,postgres&theme=dark" alt="SQLite, MySQL, PostgreSQL" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>Tools</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" alt="Git, GitHub, VS Code, Linux" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>Embedded & IoT</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark" alt="Arduino, Raspberry Pi" />
+    <td valign="top">
+      <b>Embedded AI Systems</b><br/>
+      <sub>Bringing intelligence to small, real devices</sub>
     </td>
   </tr>
 </table>
@@ -109,39 +81,124 @@ I'm curious by default, always learning, experimenting, and improving, and I'm d
 
 ---
 
-<!-- ─────────────── 5. FEATURED PROJECTS ─────────────── -->
+<!-- ─────────────── 4. CURRENTLY LEARNING ─────────────── -->
+
+## `> currently_learning`
+
+<sub>An honest split between what I've already used and what I'm still working to understand.</sub>
+
+<!-- EDIT: move items between the two columns as your skills grow. -->
+
+<table>
+  <tr>
+    <th width="50%" align="left">Already used</th>
+    <th width="50%" align="left">Currently learning</th>
+  </tr>
+  <tr>
+    <td valign="top">
+      • Python<br/>
+      • C++<br/>
+      • Git &amp; GitHub<br/>
+      • Linux<br/>
+      • Arduino / ESP32
+    </td>
+    <td valign="top">
+      • Machine Learning fundamentals<br/>
+      • Deep Learning<br/>
+      • Natural Language Processing<br/>
+      • Computer Vision<br/>
+      • AI Agents &amp; Automation
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+---
+
+<!-- ─────────────── 5. TECHNICAL TOOLKIT ─────────────── -->
+
+## `> technical_toolkit`
+
+<sub>The tools I work with at a student level, not claims of professional expertise.</sub>
+
+<!-- EDIT: more icons available at https://skillicons.dev -->
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=py,cpp,git,github,linux,vscode,arduino&theme=dark" alt="Python, C++, Git, GitHub, Linux, VS Code, Arduino" />
+
+<sub>Python &nbsp;·&nbsp; C++ &nbsp;·&nbsp; Git &amp; GitHub &nbsp;·&nbsp; Linux &nbsp;·&nbsp; VS Code &nbsp;·&nbsp; Arduino / ESP32</sub>
+
+</div>
+
+<br/>
+
+---
+
+<!-- ─────────────── 6. LEARNING JOURNEY ─────────────── -->
+
+## `> learning_journey`
+
+<!-- EDIT: adjust stages and wording to match your real progress. -->
+
+```text
+ 01  FOUNDATIONS        Programming, problem solving, version control, Linux
+  │                      Python · C++ · Git · Linux
+  │
+ 02  CORE AI            How machines learn from data
+  │                      Machine Learning · Deep Learning
+  │
+ 03  SPECIALIZATIONS    Exploring the fields that interest me most
+  │                      NLP · Computer Vision
+  │
+ 04  APPLIED SYSTEMS    Turning knowledge into working projects
+  │                      AI Agents · Automation · Embedded AI
+  │
+ ▼   NEXT               Bigger projects, deeper understanding, more building
+```
+
+<br/>
+
+---
+
+<!-- ─────────────── 7. FEATURED PROJECTS ─────────────── -->
 
 ## `> featured_projects`
 
 <!-- EDIT: replace each placeholder with a real repository.
-     Keep each description to one honest sentence about what it actually does. -->
+     Keep descriptions honest: what it does, what you built, what you learned. -->
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>📁 Project One</h3>
-      <p><i>[One-sentence description of what this project does and the problem it solves.]</i></p>
-      <p><b>Stack:</b> [Python · ... · ...]</p>
+      <h3>Project Name</h3>
+      <p><i>[One sentence: what this project does and the problem it solves.]</i></p>
+      <p><b>Built with:</b> [Python · ... · ...]</p>
+      <p><b>What I learned:</b> [One honest sentence.]</p>
       <p><a href="https://github.com/thmsgbrt/REPO-NAME">View repository →</a></p>
     </td>
     <td width="50%" valign="top">
-      <h3>📁 Project Two</h3>
-      <p><i>[One-sentence description of what this project does and the problem it solves.]</i></p>
-      <p><b>Stack:</b> [Python · ... · ...]</p>
+      <h3>Project Name</h3>
+      <p><i>[One sentence: what this project does and the problem it solves.]</i></p>
+      <p><b>Built with:</b> [Python · ... · ...]</p>
+      <p><b>What I learned:</b> [One honest sentence.]</p>
       <p><a href="https://github.com/thmsgbrt/REPO-NAME">View repository →</a></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>📁 Project Three</h3>
-      <p><i>[One-sentence description of what this project does and the problem it solves.]</i></p>
-      <p><b>Stack:</b> [Python · ... · ...]</p>
+      <h3>Project Name</h3>
+      <p><i>[One sentence: what this project does and the problem it solves.]</i></p>
+      <p><b>Built with:</b> [C++ · Arduino / ESP32 · ...]</p>
+      <p><b>What I learned:</b> [One honest sentence.]</p>
       <p><a href="https://github.com/thmsgbrt/REPO-NAME">View repository →</a></p>
     </td>
     <td width="50%" valign="top">
-      <h3>📁 Project Four</h3>
-      <p><i>[One-sentence description of what this project does and the problem it solves.]</i></p>
-      <p><b>Stack:</b> [Python · ... · ...]</p>
+      <h3>Project Name</h3>
+      <p><i>[One sentence: what this project does and the problem it solves.]</i></p>
+      <p><b>Built with:</b> [... · ... · ...]</p>
+      <p><b>What I learned:</b> [One honest sentence.]</p>
       <p><a href="https://github.com/thmsgbrt/REPO-NAME">View repository →</a></p>
     </td>
   </tr>
@@ -151,22 +208,22 @@ I'm curious by default, always learning, experimenting, and improving, and I'm d
 
 ---
 
-<!-- ─────────────── 6. GITHUB ANALYTICS ─────────────── -->
+<!-- ─────────────── 8. GITHUB ANALYTICS ─────────────── -->
 
 ## `> github_analytics`
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=thmsgbrt&show_icons=true&hide_border=true&bg_color=0D0F12&title_color=00E5FF&text_color=E8E8E6&icon_color=00E5FF&ring_color=00E5FF&count_private=true" alt="GitHub Stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thmsgbrt&layout=compact&hide_border=true&bg_color=0D0F12&title_color=00E5FF&text_color=E8E8E6" alt="Most Used Languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=thmsgbrt&show_icons=true&hide_border=true&bg_color=0B0F14&title_color=00D9FF&text_color=E6EDF3&icon_color=00D9FF&ring_color=00D9FF" alt="GitHub Stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thmsgbrt&layout=compact&hide_border=true&bg_color=0B0F14&title_color=00D9FF&text_color=E6EDF3" alt="Most Used Languages" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=thmsgbrt&hide_border=true&background=0D0F12&ring=00E5FF&fire=00E5FF&currStreakLabel=E8E8E6&currStreakNum=E8E8E6&sideLabels=E8E8E6&sideNums=E8E8E6&dates=8B949E&stroke=2B2F36" alt="GitHub Contribution Streak" />
+<img src="https://streak-stats.demolab.com?user=thmsgbrt&hide_border=true&background=0B0F14&ring=00D9FF&fire=00D9FF&currStreakLabel=E6EDF3&currStreakNum=E6EDF3&sideLabels=E6EDF3&sideNums=E6EDF3&dates=8B949E&stroke=1C232D" alt="GitHub Contribution Streak" />
 
 <br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=thmsgbrt&bg_color=0D0F12&color=E8E8E6&line=00E5FF&point=E8E8E6&area=true&area_color=00E5FF&hide_border=true&hide_title=true" alt="Contribution Activity Graph" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=thmsgbrt&bg_color=0B0F14&color=E6EDF3&line=00D9FF&point=E6EDF3&area=true&area_color=00D9FF&hide_border=true&hide_title=true" alt="Contribution Graph" />
 
 </div>
 
@@ -174,43 +231,31 @@ I'm curious by default, always learning, experimenting, and improving, and I'm d
 
 ---
 
-<!-- ─────────────── 7. EDUCATION & ACHIEVEMENTS ─────────────── -->
+<!-- ─────────────── 9. EDUCATION & ACTIVITIES ─────────────── -->
 
-## `> education_&_achievements`
+## `> education_&_activities`
 
 | | |
 |:--|:--|
-| 🎓 **AI Engineering Student** | New Ismailia National University, Egypt |
-| 📚 **Third-Year Engineering Student** | Building depth in AI and software engineering |
-| 🧭 **Batch Leader** | Leading and representing my academic batch |
-| 📊 **Data Analysis Virtual Experience** | STC × Misk Skills |
+| **AI Engineering Student** | Artificial Intelligence Engineering |
+| **New Ismailia National University** | Egypt |
+| **Third-Year Student** | Building depth in AI and software foundations |
+| **Batch Leader** | Leading and representing my academic batch |
+| **Data Analysis Virtual Experience** | STC × Misk Skills |
 
 <br/>
 
 ---
 
-<!-- ─────────────── 8. CURRENTLY EXPLORING ─────────────── -->
-
-## `> currently_exploring`
-
-- **Advanced AI Engineering** – moving from understanding models to engineering complete systems
-- **LLMs & AI Agents** – how language models reason, use tools, and automate real tasks
-- **Deep Learning** – going deeper into architectures and how they actually learn
-- **Production-Ready AI Applications** – what it takes for AI to work reliably outside a notebook
-
-<br/>
-
----
-
-<!-- ─────────────── 9. CONNECT ─────────────── -->
+<!-- ─────────────── 10. CONNECT WITH ME ─────────────── -->
 
 ## `> connect_with_me`
 
 <div align="center">
 
-<a href="https://github.com/thmsgbrt"><img src="https://img.shields.io/badge/GitHub-thmsgbrt-0D0F12?style=for-the-badge&logo=github&logoColor=00E5FF" alt="GitHub" /></a>
-<a href="https://www.linkedin.com/in/nabil-k-darwish-a670a8357"><img src="https://img.shields.io/badge/LinkedIn-Nabil_K._Darwish-0D0F12?style=for-the-badge&logo=linkedin&logoColor=00E5FF" alt="LinkedIn" /></a>
-<a href="mailto:nabilkdarwish@gmail.com"><img src="https://img.shields.io/badge/Email-nabilkdarwish@gmail.com-0D0F12?style=for-the-badge&logo=gmail&logoColor=00E5FF" alt="Email" /></a>
+<a href="https://github.com/thmsgbrt"><img src="https://img.shields.io/badge/GitHub-thmsgbrt-0B0F14?style=for-the-badge&logo=github&logoColor=00D9FF" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/nabil-k-darwish-a670a8357"><img src="https://img.shields.io/badge/LinkedIn-Nabil_K._Darwish-0B0F14?style=for-the-badge&logo=linkedin&logoColor=00D9FF" alt="LinkedIn" /></a>
+<a href="mailto:nabilkdarwish@gmail.com"><img src="https://img.shields.io/badge/Email-nabilkdarwish@gmail.com-0B0F14?style=for-the-badge&logo=gmail&logoColor=00D9FF" alt="Email" /></a>
 
 </div>
 
@@ -218,18 +263,19 @@ I'm curious by default, always learning, experimenting, and improving, and I'm d
 
 ---
 
-<!-- ─────────────── 10. CLOSING ─────────────── -->
+<!-- ─────────────── 11. PERSONAL PHILOSOPHY ─────────────── -->
 
 <div align="center">
 
 <br/>
 
-*Intelligence only matters once it's built, tested, and in someone's hands.*
+*I learn by building, and I build to understand.*
 
-<sub>Still learning. Still building. Always shipping the next version.</sub>
+<sub>Every experiment, every bug, and every small project is a step toward engineering intelligent technology that matters.</sub>
 
 <br/>
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D0F12&height=60&section=footer" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0B0F14&height=60&section=footer" width="100%" alt="" />
 
 </div>
